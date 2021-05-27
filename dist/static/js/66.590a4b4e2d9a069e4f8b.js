@@ -1,0 +1,2 @@
+webpackJsonp([66],{dD6U:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={beforeRouteEnter:function(e,t,n){n(function(e){e.$router.replace(t.path)})}},o=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div")},u=[];o._withStripped=!0;var i={render:o,staticRenderFns:u},s=i,c=n("VU/8"),l=c(r,s,!1,null,null,null);l.options.__file="src/components/shopping/refresh.vue";t.default=l.exports}});
+//# sourceMappingURL=66.590a4b4e2d9a069e4f8b.js.map
